@@ -28,7 +28,7 @@ At least 2 dedicated GPUs (In my case both my GPUs are AMD cards)
 
 A Board that puts devices in their own IOMMU groups and not into a big one!!!
 
-Optional but useful: A board like the Taichi X570 that has the right pci-e slots for the operation, meaning that your second slot is capable of at least pci-e 3.0 x16 other wise you will most likely encounter poor performance in video games and trust me I have been there with a B450 board.
+Optional but useful: A board like the Taichi X570 that has the right pci-e slots for the operation, meaning that your second slot is capable of at least pci-e 3.0 x8 otherwise you will most likely encounter poor performance in video games and trust me I have been there with a B450 board.
 
 ## Resources and verifying your hardware
 
