@@ -32,7 +32,7 @@ Optional but useful: A board like the Taichi X570 that has the right pci-e slots
 
 ## Resources and verifying your hardware
 
-For the most part you should consult https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF even if you are not on Debian.
+For the most part you should consult https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF even if you are not on Arch. It is a very detailed and useful document that can help!
 
 Now for the Debian specific stuff...
 
